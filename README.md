@@ -94,6 +94,16 @@ The statistical analysis is integrated into the workflow. Executing the relevant
 
 
 
-```
 
+## 📚 Dataset Citation
+This project utilizes the FinanceBench dataset for evaluating open book financial question answering. If you refer to or use the FinanceBench dataset, please cite it using the following BibTeX format:
+```
+@misc{islam2023financebench,
+  title={FinanceBench: A New Benchmark for Financial Question Answering},
+  author={Pranab Islam and Anand Kannappan and Douwe Kiela and Rebecca Qian and Nino Scherrer and Bertie Vidgen},
+  year={2023},
+  eprint={2311.11944},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
 ```
